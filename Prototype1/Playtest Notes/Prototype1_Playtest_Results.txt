@@ -1,0 +1,35 @@
+Notes:
+- The game as it is seems to be working fine (on a technical level)
+- Camera and controls are fine
+- Good sense of speed
+- Speed increase should be incremental rather than instantanious
+- Jump is too slow
+- Levels should be wider
+- The mechanic of the speed-up pellets is nice
+- Needs obstacles and ways where speed can drop
+- Lack of basic functions like respawning, a menu, pausing, etc. 
+
+Reflections:
+It seems I've made a decent foundation for a game.
+Seems like most of the work would be on adding variety on the levels and polish.
+
+I'll definitely make the levels wider to allow variety and intensity in gameplay.
+Doing so will require adjustments on the strafing speed.
+I could also make it vary from level to level as well.
+
+I'll definitely need to make all the basic functions any game requires.
+I'll need menus, pausing, respawning, exiting, etc.
+This will most likely be my focus next time I work on this.
+
+If I make ways to slow down the player, I want to make it so that it doesn't
+make them stop, but merely lower their speed. Need to make it so that it's punishing,
+without it being too infuriating. Making the player go into a complete stop each time
+would ruin the overall sense of speed, imo.
+
+The jump definitely needs some tweaking.
+While doing a big air is nice, it stops being fun when it takes too long and
+feels like you're slowing down.
+
+Need to make the players stay on their toes without the game getting too infuriating.
+There ofcourse needs to be room for error, tho less as the levels go on.
+

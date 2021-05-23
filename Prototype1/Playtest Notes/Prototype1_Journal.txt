@@ -1,0 +1,51 @@
+Design Question: I'm just testing out the mechanic of going down a slope, as if skiing or snowboarding.
+
+Prototype Questions:
+
+1. How are the controls?
+
+They're fine.
+
+2. How's the view? 
+
+It's fine since I can see well infront of me.
+
+
+3. Is the starting speed too slow?
+
+No, especially since the first pellets are pretty close.
+
+4. Is strafing too slow?
+
+With the wideness of the level, no.
+
+5. What do you think of collecting pellets to increase your speed when sliding down?
+
+Feels good, but basing the whole levels on collecting pellets might be boring.
+
+6. Do you like the overall sense of speed?
+
+Feels good. However, the speed increase would be better if it were gradual rather than instantanious whenever collecting pellets and whatnot.
+
+7. How's the jumping?
+
+The jumping could be faster (as in the rise and fall). Having dedicated jumps that follow your direction makes it feel like
+an actual game where you go down a slope.
+
+8. What do you think of the ramp that increases your jump height? It was used for the end,
+but ramps like these can be in the middle of the level as well.
+
+Having these in the middle of the level would be nice.
+However, the one at the end should make you jump much higher since it's the big finish of a level.
+
+9. Was the test level too difficult or frustrating?
+
+Nope.
+
+
+Feel free to add any extra comments and/or suggestions.
+
+There should be obstacles and ways for your speed to decrease.
+Levels should be wider, and in consequence the strafing speed should be faster.
+Hopefully the levels are much longer too.
+Needs basic functions like respawning and a menu.
